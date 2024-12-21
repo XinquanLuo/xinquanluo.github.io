@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-
+This is Xinquan Luo's home on the web!
