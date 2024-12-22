@@ -26,17 +26,18 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : #""
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "xinquanluo1@gmail.com" 
+  CV               : "https://drive.google.com/file/d/1ZuL3GyF0lVYoxKEeLNBN3g9t_7uP_IcF/view?usp=drive_link"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : #""
   impactstory      : # URL
-  orcid            : ""
+  orcid            : #""
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : #""
   researchgate     : # URL
   scopus           : # URL
 
@@ -49,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : #"" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
