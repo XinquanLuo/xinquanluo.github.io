@@ -1,5 +1,5 @@
 ---
-title: 'My Research Reivew'
+title: 'My Research Review'
 date: 2024-12-23
 permalink: /posts/2024/12/research-review/
 tags:
@@ -19,7 +19,7 @@ Flexibility - self-supervised learning, transfer learning, continual learning, m
 SNN - neuromorphic hardware  
 * Envision the prospects of integrating both fileds.
 
-How to Express: 
+ 
 
 # Research Review For Myself
 ## NeuroAI 
@@ -31,7 +31,7 @@ How to Express:
 	
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
-		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware-[synaptic dynamics within adjacent dendritic spines, spiking]
+		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware-\[synaptic dynamics within adjacent dendritic spines, spiking\]
 ### OpenBioML
 ### A dl framework for neuro
 * object, learning rule, arch
@@ -48,7 +48,7 @@ How to Express:
 ### Blake Richards, McGill
 * Research:
 	* Credit Assignment: for DL backprop, online learning, modular learning, differentiable-energy.
-		* 
+		
 
 ## CompNeuro (physics, statistics)
 
