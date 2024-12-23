@@ -16,7 +16,7 @@ Flexibility - self-supervised learning, transfer learning, continual learning, m
 SNN - neuromorphic hardware  
 * Envision the prospects of integrating both fileds.
 
- 
+
 
 # Research Review For Myself
 ## NeuroAI 
@@ -24,7 +24,7 @@ SNN - neuromorphic hardware
 * Intro: 
 	* Background: CompArch?, DNN-visual processing circuits in the cat neocortex, RL-behavior and neural activity during learning, Attention-\[saliency-normalize(or say transform), ...\] Decades Old 
 	* Challenge: sensorimotor - interact - emobodied, adaptability, flexibility
-		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---_X Square_
+		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---_X Square\_
 	
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
