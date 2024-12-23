@@ -6,20 +6,16 @@ tags:
   - research
 ---
 
-<style>
-body {font-size: 17px}
-</style>
-
 # My Research Interests And Statements
 NeuroAI, DL&AI, CompCogSci, CompCogNeuro  
-How to Integrate AI and Neuroscience:  
+How to Integrate AI and Neuroscience:
 * Discuss the challenges in current AI and the corresponding solving pathways (or say fileds).  
 Flexibility - self-supervised learning, transfer learning, continual learning, meta learning, one-shot learning, imitation learning.  
 * Explore potential solutions from neuroscience and the advancements.  
 SNN - neuromorphic hardware  
 * Envision the prospects of integrating both fileds.
 
- 
+
 
 # Research Review For Myself
 ## NeuroAI 
