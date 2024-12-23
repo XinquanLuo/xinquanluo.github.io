@@ -8,7 +8,6 @@ tags:
 
 # My Research Interests And Statements
 NeuroAI, DL&AI, CompCogSci, CompCogNeuro
-
 How to Integrate AI and Neuroscience:
 * Discuss the challenges in current AI and the corresponding solving pathways (or say fileds).  
 Flexibility - self-supervised learning, transfer learning, continual learning, meta learning, one-shot learning, imitation learning.  
@@ -18,17 +17,18 @@ SNN - neuromorphic hardware
 
 
 <p></p>
+
 # Research Review For Myself
 ## NeuroAI 
 ### Catalyzing...
 * Intro: 
-	* Background: CompArch?, DNN-visual processing circuits in the cat neocortex, RL-behavior and neural activity during learning, Attention-\[saliency-normalize(or say transform), ...\] Decades Old 
+	* Background: CompArch?, DNN-visual processing circuits in the cat neocortex, RL-behavior and neural activity during learning, Attention-[saliency-normalize(or say transform), ...] Decades Old 
 	* Challenge: sensorimotor - interact - emobodied, adaptability, flexibility
-		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---<em>X Square</em>
+		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---X Square
 	
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
-		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware-\[synaptic dynamics within adjacent dendritic spines, spiking\]
+		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware-[synaptic dynamics within adjacent dendritic spines, spiking]
 
 ### OpenBioML
 ### A dl framework for neuro
