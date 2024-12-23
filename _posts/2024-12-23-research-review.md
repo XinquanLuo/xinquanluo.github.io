@@ -17,15 +17,14 @@ SNN - neuromorphic hardware
 * Envision the prospects of integrating both fileds.
 
 
-
-
+<p></p>
 # Research Review For Myself
 ## NeuroAI 
 ### Catalyzing...
 * Intro: 
 	* Background: CompArch?, DNN-visual processing circuits in the cat neocortex, RL-behavior and neural activity during learning, Attention-\[saliency-normalize(or say transform), ...\] Decades Old 
 	* Challenge: sensorimotor - interact - emobodied, adaptability, flexibility
-		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---\_X Square\_
+		> &#10071; The main bottleneck in the development of general robots lies in intelligence rather than hardware. ---<em>X Square</em>
 	
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
