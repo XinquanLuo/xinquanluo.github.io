@@ -5,8 +5,7 @@ permalink: /posts/2024/12/research-review/
 tags:
   - research
 ---
-
-
+<!--more-->
 # My Research Interests And Statements
 NeuroAI, DL&AI, CompCogSci, CompCogNeuro  
 
