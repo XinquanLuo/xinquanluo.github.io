@@ -7,7 +7,8 @@ tags:
 ---
 
 # My Research Interests And Statements
-NeuroAI, DL&AI, CompCogSci, CompCogNeuro  
+NeuroAI, DL&AI, CompCogSci, CompCogNeuro
+
 How to Integrate AI and Neuroscience:
 * Discuss the challenges in current AI and the corresponding solving pathways (or say fileds).  
 Flexibility - self-supervised learning, transfer learning, continual learning, meta learning, one-shot learning, imitation learning.  
@@ -15,7 +16,7 @@ Flexibility - self-supervised learning, transfer learning, continual learning, m
 SNN - neuromorphic hardware  
 * Envision the prospects of integrating both fileds.
 
-
+ 
 
 # Research Review For Myself
 ## NeuroAI 
@@ -28,19 +29,21 @@ SNN - neuromorphic hardware
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
 		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware-\[synaptic dynamics within adjacent dendritic spines, spiking\]
+
 ### OpenBioML
 ### A dl framework for neuro
 * object, learning rule, arch
 
 ## Extensive AI 
 * Challenge: data-large, label-unsupervised, CompResour, Alignment Security
+
 ### Boltzmann Machines
 * Energy-based model -> probability distribution, Restricted, Unsupervised learning, Generative learning, Contrastive divergence, Markov random field
 * Generative model: VAE, GAN
 ### CapsuleNet
 ### Optimization
 
-## 
+## .
 ### Blake Richards, McGill
 * Research:
 	* Credit Assignment: for DL backprop, online learning, modular learning, differentiable-energy.
