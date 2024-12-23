@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://drive.google.com/file/d/1ZuL3GyF0lVYoxKEeLNBN3g9t_7uP_IcF/view?usp=drive_link)
+My CV is [here](https://drive.google.com/file/d/1ZuL3GyF0lVYoxKEeLNBN3g9t_7uP_IcF/view?usp=drive_link).
