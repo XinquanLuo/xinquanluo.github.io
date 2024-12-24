@@ -42,6 +42,7 @@ SNN - neuromorphic hardware
 ### Boltzmann Machines
 * Energy-based model -> probability distribution, Restricted, Unsupervised learning, Generative learning, Contrastive divergence, Markov random field
 * Generative model: VAE, GAN
+
 ### CapsuleNet
 ### Optimization
 
