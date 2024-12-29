@@ -53,6 +53,7 @@ How to Express:
 * Generative model: VAE, GAN
 
 ### CapsuleNet
+### Backprop
 ### Optimization
 
 ## NeuroAI Prof.
