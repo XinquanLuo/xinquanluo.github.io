@@ -8,5 +8,8 @@ main:
   - title: "Blog"
     url: /blog/
 
+  - title: "Miscellaneous"
+    url: /misc/
+    
   - title: "CV"
     url: /CV/
