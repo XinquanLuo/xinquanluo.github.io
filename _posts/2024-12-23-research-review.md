@@ -35,6 +35,7 @@ some papers
 		* engage environments - modular and hierarchy, partial autonomy, amortized control
 		* behave flexibly
 		* compute efficiently - credit assignment in recurrence for processing sequential information, hardware - [synaptic dynamics within adjacent dendritic spines, spiking]
+
 ### OpenBioML
 ### A dl framework for neuro
 * Intro:
@@ -48,9 +49,11 @@ some papers
 ## Extensive AI 
 * Challenge: data - large, label - unsupervised, CompResour, Alignment Security
 * LLM: pre-train, fine-tune
+
 ### Boltzmann Machines
 * Energy-based model -> probability distribution, Restricted, Unsupervised learning, Generative learning, Contrastive divergence, Markov random field
 * Generative model: VAE, GAN
+
 ### CapsuleNet
 ### Backprop
 ### Optimization
@@ -65,14 +68,17 @@ Extensive AI and NeuroAI
 	* Credit Assignment: for DL backprop, online learning, modular learning, differentiable-energy.
 	* Memory for action and insight
 	* Tools
+
 ### Konrad Kording, UPenn
 * Causal inference
+
 ### James Dicarlo, MIT, Daniel Yamins, Stanford, Martin Schimpf, EPFL
 * Predictive benchmark
 
 ## CompNeuro (physics, statistics)
 ### Phy: Sukbin Lim, NYUSH
 * Neuronal dynamics, Memory models
+
 ### Adrienne Fairhall, UW
 ### Stat: Eero Simoncelli, NYU, Jonathan Pillow, Princeton, Liam Paninski, Columbia, Scott Linderman, Stanford
 * Stat
